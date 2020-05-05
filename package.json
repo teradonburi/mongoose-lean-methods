@@ -1,19 +1,21 @@
 {
   "name": "mongoose-lean-methods",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Attach defaults to the results of mongoose queries when using `.lean()`. Highly inspired by mongoose-lean-virtuals and mongoose-lean-defaults.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "dev": "jest --watchAll"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/teradonburi/mongoose-lean-methods.git"
   },
   "keywords": [
-    "mongo",
+    "mongodb",
     "mongoose",
-    "lean"
+    "lean",
+    "methods"
   ],
   "author": "teradonburi",
   "license": "ISC",
@@ -22,6 +24,11 @@
   },
   "homepage": "https://github.com/teradonburi/mongoose-lean-methods#readme",
   "devDependencies": {
-    "jest": "^26.0.0"
+    "eslint": "^6.8.0",
+    "jest": "^26.0.0",
+    "mongoose": "^5.9.12"
+  },
+  "dependencies": {
+    "mpath": "^0.7.0"
   }
 }

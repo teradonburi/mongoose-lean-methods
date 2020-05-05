@@ -1,6 +1,6 @@
 # mongoose-lean-methods
 
-Attach defaults to the results of mongoose queries when using `.lean()`. Highly inspired by mongoose-lean-virtuals and mongoose-lean-defaults.
+Attach defaults to the results of mongoose queries when using `.lean()`. Highly inspired by mongoose-lean-virtuals and mongoose-lean-defaults.  
 Note: schema.methods attaching affect to slow performance when find documents, avoid create much methods in schema is better.
 
 Install
