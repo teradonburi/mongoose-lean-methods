@@ -68,6 +68,7 @@ function attachMethods(schema, res) {
 }
 
 function attachMethodsToDoc(doc, methods) {
+  if (!doc) return
   if (Object.keys(methods).length === 0) {
     return doc
   }
