@@ -1,6 +1,6 @@
 # Deprecated
 This package already not maintenanced.  
-This package is so tiny, you can only check and copy ./index.js altnative use this package.  
+This package is so tiny, you can only check and copy ./index.js altnative if use this package.  
 
 # mongoose-lean-methods
 
