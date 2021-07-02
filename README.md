@@ -1,3 +1,7 @@
+# Not Maintenanced
+This package already not maintenanced.
+This package is so tiny, you can only see ./index.js altnative.
+
 # mongoose-lean-methods
 
 Attach methods to the results of mongoose queries when using `.lean()`. Highly inspired by mongoose-lean-virtuals and mongoose-lean-defaults.  
