@@ -1,6 +1,7 @@
 # Deprecated
-This package already not maintenanced.  
+This package already not maintenanced (my health reason).  
 This package is so tiny, if you replace this package, you can copy only index.js.
+(I'm waiting anyone take over this library.)  
 
 # mongoose-lean-methods
 
