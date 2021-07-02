@@ -1,6 +1,6 @@
-# Not Maintenanced
-This package already not maintenanced.
-This package is so tiny, you can only see ./index.js altnative.
+# Deprecated
+This package already not maintenanced.  
+This package is so tiny, you can only check and copy ./index.js altnative use this package.  
 
 # mongoose-lean-methods
 
@@ -43,3 +43,5 @@ const doc = await Model.findOne().lean({ methods: true })
 doc.showname()
 ```
 
+# Licence
+MIT
