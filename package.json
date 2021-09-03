@@ -29,6 +29,6 @@
     "mongoose": "^5.9.12"
   },
   "dependencies": {
-    "mpath": "^0.7.0"
+    "mpath": "^0.8.4"
   }
 }
